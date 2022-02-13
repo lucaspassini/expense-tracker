@@ -1,21 +1,22 @@
 ## `Expense Tracker`
 
-<p>
-<img src="https://user-images.githubusercontent.com/47937044/153735107-40494d58-43b4-43cc-9334-22d3b6b572ea.png" width="650"></img></p>
+<img src="https://user-images.githubusercontent.com/47937044/153777306-e1bfd899-0ba2-4508-bd74-93cba2c88519.png" width="650"></img>
 
-## 🧷 About
+## 📕 About
 
 An expense tracker made with React which creates, shows and update any inserted custom expense.
 
 ## 🧑🏻‍💻 Installation
 
-Once your machine is set up, clone this project and run:
+First, run the development server:
 
-```
-npm install react react-dom
+```bash
+npm run dev
+# or
+yarn dev
 ```
 
-## 🚀 Technologies
+## 💻 Technologies
 
 This project was developed with:
 
