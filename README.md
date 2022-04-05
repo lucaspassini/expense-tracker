@@ -1,4 +1,7 @@
-## `Expense Tracker`
+<img src="public/favicon.ico" width="48"/>
+  
+## `Expense Tracker` 
+
 
 <img src="https://user-images.githubusercontent.com/47937044/161846545-f794dbce-1202-4763-8cd5-5befe267f845.png" width="740"></img>
 
