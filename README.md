@@ -1,6 +1,6 @@
 ## `Expense Tracker`
 
-<img src="https://user-images.githubusercontent.com/47937044/153777306-e1bfd899-0ba2-4508-bd74-93cba2c88519.png" width="650"></img>
+<img src="https://user-images.githubusercontent.com/47937044/161655510-3b994419-45b9-4958-a64a-290cfcfb2d20.png" width="650"></img>
 
 ## 📕 About
 
