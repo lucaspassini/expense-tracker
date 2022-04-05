@@ -1,8 +1,8 @@
 ## `Expense Tracker`
 
-<img src="https://user-images.githubusercontent.com/47937044/161655510-3b994419-45b9-4958-a64a-290cfcfb2d20.png" width="650"></img>
+<img src="https://user-images.githubusercontent.com/47937044/161846545-f794dbce-1202-4763-8cd5-5befe267f845.png" width="740"></img>
 
-## 📕 About
+## 📕 About 
 
 An expense tracker made with React which creates, shows and update any inserted custom expense.
 
