@@ -7,8 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/lucaspassini/expense-tracker?color=191F2B&style=flat-square)](https://github.com/lucaspassini/expense-tracker/stargazers)
 [![Forks](https://img.shields.io/github/forks/lucaspassini/expense-tracker?color=%23191F2B&style=flat-square)](https://github.com/lucaspassini/expense-tracker/network/members)
 
-
-<img src="https://user-images.githubusercontent.com/47937044/161846545-f794dbce-1202-4763-8cd5-5befe267f845.png" width="700"></img>
+<img src="https://user-images.githubusercontent.com/47937044/162525153-170332b1-ea74-45ab-8205-e26923ec5058.png" width="700"></img>
 
 ## 📕 About 
 
