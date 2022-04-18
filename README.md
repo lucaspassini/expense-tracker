@@ -15,12 +15,13 @@ An expense tracker made with React which creates, shows and update any inserted 
 
 ## 🧑🏻‍💻 Installation
 
-Run the development server:
+Clone the repository and run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/lucaspassini/expense-tracker.git
+$ cd expense-tracker
+$ npm install
+$ npm run dev
 ```
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
