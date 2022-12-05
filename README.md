@@ -2,7 +2,7 @@
   
 # react tracker [![Author](https://img.shields.io/badge/author-lucaspassini-lightgrey)](https://github.com/lucaspassini) [![Stars](https://img.shields.io/github/stars/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/stargazers) [![Forks](https://img.shields.io/github/forks/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/network/members)
 
-<img src="https://user-images.githubusercontent.com/47937044/205523857-1de18236-077c-45b0-afe8-cc35b4446835.png" width="700"></img>
+<img src="https://user-images.githubusercontent.com/47937044/205745209-270f9dae-b509-4221-897b-2262c3cc4d57.png" width="700"></img>
 
 ## About 
 
