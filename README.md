@@ -1,6 +1,6 @@
 <img src="public/favicon.ico" width="48"/>
   
-# react tracker [![Author](https://img.shields.io/badge/author-lucaspassini-lightgrey)](https://github.com/lucaspassini) [![Stars](https://img.shields.io/github/stars/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/stargazers) [![Forks](https://img.shields.io/github/forks/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/network/members)
+# Expense Tracker [![Author](https://img.shields.io/badge/author-lucaspassini-lightgrey)](https://github.com/lucaspassini) [![Stars](https://img.shields.io/github/stars/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/stargazers) [![Forks](https://img.shields.io/github/forks/lucaspassini/react-meals?color=lightgrey)](https://github.com/lucaspassini/react-meals/network/members)
 
 <img src="https://user-images.githubusercontent.com/47937044/205745209-270f9dae-b509-4221-897b-2262c3cc4d57.png" width="700"></img>
 
